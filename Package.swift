@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RevealServer",
-            url: "RevealServer/RevealServer.xcframework"
+            path: "RevealServer/RevealServer.xcframework"
         )
     ]
 )
