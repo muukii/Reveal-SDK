@@ -14,8 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RevealServer",
-            url: "https://download.revealapp.com/RevealServer-35.zip",
-            checksum: "c01aff68987887f9cb771260626769edd566acb0f91de7c0e749900ed6a0d5da"
+            url: "RevealServer/RevealServer.xcframework"
         )
     ]
 )
