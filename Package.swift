@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.9
 
 import PackageDescription
 
@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RevealServer",
-            path: "RevealServer/RevealServer.xcframework"
+            path: "RevealServer.xcframework"
         )
     ]
 )
