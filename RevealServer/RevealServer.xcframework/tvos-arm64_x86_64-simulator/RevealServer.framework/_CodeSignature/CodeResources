@@ -10,11 +10,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oKG9NhpWcQLtKpO4VNmJGA9CqCI=
+		mokZDLZyTo1Jk1JfEc/kWNqNRDE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		EuDEeG1dcC1sd+hIW2SkUAImUg8=
+		++4ILt01qhVYkiivRY9e1/vApMk=
 		</data>
 		<key>Scripts/integrate_revealserver.sh</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/RevealServer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JavE2LI6bNGfH9W90/bDxwIxVlg=
-			</data>
 			<key>hash2</key>
 			<data>
 			weLK/65HyV1EiL9dd4xoAqQhf0/0r/Oy6os2nXCA+Ew=
@@ -36,21 +32,13 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EuDEeG1dcC1sd+hIW2SkUAImUg8=
-			</data>
 			<key>hash2</key>
 			<data>
-			tstqiJpIPr4iEd3MDHClLuTB/ciSC/zNlke1AjfSVuU=
+			jhCUclbTwRZfHbZszJ50bh8L3Hh6OZ+iJUzXp3vSQ8I=
 			</data>
 		</dict>
 		<key>Scripts/integrate_revealserver.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pDjnAHC1xiLNLJDDIIrTACRCcFA=
-			</data>
 			<key>hash2</key>
 			<data>
 			XOjBVOZRN/oNePfbAbXae72e3s7W6HqdKnPKJdHque8=
